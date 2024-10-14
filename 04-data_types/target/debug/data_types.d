@@ -1,0 +1,1 @@
+/home/bylkode/Desktop/Code/Rust/rust-book/04-data_types/target/debug/data_types: /home/bylkode/Desktop/Code/Rust/rust-book/04-data_types/src/compound.rs /home/bylkode/Desktop/Code/Rust/rust-book/04-data_types/src/main.rs
