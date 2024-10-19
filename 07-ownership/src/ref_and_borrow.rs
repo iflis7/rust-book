@@ -1,6 +1,8 @@
 #[allow(unused)]
 
 pub fn ref_and_borrow() {
+    println!("\n *** Ref_and_borrow ***");
+
     let s1 = String::from("hello");
 
     let len = calculate_length(&s1);

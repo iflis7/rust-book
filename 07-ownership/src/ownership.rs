@@ -7,6 +7,8 @@ Ownership Rules
 #[allow(unused)]
 
 pub fn ownership_fn() {
+    println!("\n *** Ownership ***");
+
     {
         // s is not valid here, it’s not yet declared
         let s = "hello"; // s is valid from this point forward
