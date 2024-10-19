@@ -1,1 +1,0 @@
-/home/bylkode/Desktop/Code/Rust/rust-book/07-ownership/target/debug/ownership: /home/bylkode/Desktop/Code/Rust/rust-book/07-ownership/src/main.rs /home/bylkode/Desktop/Code/Rust/rust-book/07-ownership/src/ownership.rs /home/bylkode/Desktop/Code/Rust/rust-book/07-ownership/src/ref_and_borrow.rs /home/bylkode/Desktop/Code/Rust/rust-book/07-ownership/src/slices.rs
